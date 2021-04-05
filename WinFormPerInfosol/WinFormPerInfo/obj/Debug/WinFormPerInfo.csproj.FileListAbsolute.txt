@@ -1,0 +1,9 @@
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\bin\Debug\WinFormPerInfo.exe.config
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\bin\Debug\WinFormPerInfo.exe
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\bin\Debug\WinFormPerInfo.pdb
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\obj\Debug\WinFormPerInfo.csprojResolveAssemblyReference.cache
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\obj\Debug\WinFormPerInfo.Properties.Resources.resources
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\obj\Debug\WinFormPerInfo.csproj.GenerateResource.Cache
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\obj\Debug\WinFormPerInfo.exe
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\obj\Debug\WinFormPerInfo.pdb
+E:\USER\2020-2021,Spring\OOP2\sec-MFinal\WinFormPerInfosol\WinFormPerInfo\obj\Debug\WinFormPerInfo.Form1.resources
